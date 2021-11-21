@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil-naidu&label=Profile%20views&color=0e75b6&style=flat" alt="akhil-naidu" /> </p>
 
-- 🔭 I’m currently working on [t2d](https://github.com/akhil-naidu/t2d)
+- 🔭 I’m currently working on [t2d](https://github.com/akhil-naidu/t2d) and Edumatica
 
-- 🌱 I’m currently learning **Ruby on Rails,**
+- 🌱 I’m currently using javascript, ReactJS, MongoDB, and Express for my projects. **MERN Stack**
 
 - 👯 I’m looking to collaborate on [forem](https://github.com/akhil-naidu/forem)
 
 - 🤝 I’m looking for help with [t2d](https://github.com/akhil-naidu/t2d)
 
-- 👨‍💻 All of my projects are available at [https://blog.leewardslope.com/author/akhil](https://blog.leewardslope.com/author/akhil)
+- 👨‍💻 All of my projects are available on my website [Leewardslope](https://leewardslope.com)
 
 - 📝 I regularly write articles on [https://blog.leewardslope.com](https://blog.leewardslope.com)
 
