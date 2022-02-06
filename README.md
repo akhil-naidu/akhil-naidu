@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<a href="https://app.daily.dev/akhil_naidu"><img src="https://api.daily.dev/devcards/5947652b26674488b5c7d905b8bd305a.png?r=fmu" width="400" alt="Akhil Naidu's Dev Card"/></a>
 <h1 align="center">Hi 👋, I'm Akhil Naidu</h1>
 <h3 align="center">A passionate developer and cyber security enthusiast from India</h3>
 
