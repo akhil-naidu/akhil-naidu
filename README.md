@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil-naidu&label=Profile%20views&color=0e75b6&style=flat" alt="akhil-naidu" /> </p>
 
-- 🔭 I’m currently working on [t2d](https://github.com/akhil-naidu/t2d) and Edumatica
+- 🔭 I’m currently working on conduting a [workshop in IIT Guwahati](https://github.com/akhil-naidu/hasura-iitg), also as a Developer Success & Solution Engineer at Hasura
 
 - 🌱 I’m currently using javascript, ReactJS, MongoDB, and Express for my projects. **MERN Stack**
 
